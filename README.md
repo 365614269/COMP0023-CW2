@@ -20,7 +20,7 @@ https://networkx.org. Once the library is installed, you can run the simulator f
 $ python3 simulator.py -c <configuration-file>
 ```
 
-where <configuration-file> is a JSON file describing the simulation to be run, such as any file in
+where configuration-file is a JSON file describing the simulation to be run, such as any file in
 tests-configs/. You can additionally use options -v and -i to print more information about the simula-
 tion, including revenues calculations and message exchanges.
 We believe that the interaction with the simulator and the format of the provided configuration files is quite
